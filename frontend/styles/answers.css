@@ -1,0 +1,45 @@
+.answers{
+    padding:20px 0;
+}
+.answers__pre-title{
+    font-size: 20px;
+    line-height: 24px;
+    color: #DCDCF3;
+    margin-bottom:60px;
+}
+.answers__pre-title img{
+    margin-left:15px;
+    margin-right:15px;
+}
+.answers__test-name{
+    color: #6933DC;
+}
+.answers__items{
+    margin-top:60px;
+}
+.answer__item{
+    margin-bottom:40px;
+
+}
+.answer__title{
+    margin-bottom:40px;
+}
+
+.answer__option{
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.answers__return-to-result{
+    display: flex;
+    justify-content: flex-end;
+}
+.answers__user-data{
+    margin-top:10px;
+    font-size: 20px;
+    line-height: 24px;
+}
+.answers__user-data span{
+   color: #6933DC;
+}
